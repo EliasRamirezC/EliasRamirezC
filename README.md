@@ -20,7 +20,7 @@ Empirical study of how directed-credit policies and financial regulation relate 
 
 Empirical research on liquidity and funding vulnerability in the Bolivian banking system, examining bank balance-sheet conditions and their interaction with macro-financial developments.
 
-*Repository and reproducible research report in preparation.*
+*[Repository and reproducible research report in preparation](https://eliasramirezc.github.io/bank-liquidity-funding-fragility-bolivia/).*
 
 ## Research
 
