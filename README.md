@@ -14,7 +14,7 @@ Empirical study of how directed-credit policies and financial regulation relate 
 
 **Methods:** ARDL · ECM · VAR · HAC inference · Time-series diagnostics
 
-*Repository and reproducible research report in preparation.*
+[*Repository and reproducible research report in preparation.*](https://eliasramirezc.github.io/productive-credit-growth-bolivia/)
 
 ### Bank Liquidity and Funding Fragility in Bolivia
 
